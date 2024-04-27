@@ -4,9 +4,9 @@
 CTBot myBot;
 
 // Pin WiFi
-const char* ssid = "trinitrotoluene";
-const char* pass = "albedoye";
-const char* token = "6766293803:AAEkhnQkm3A0VAsPD2O2gDpm7EpZ_rSMiLk";
+const char* ssid = "";
+const char* pass = "";
+const char* token = "";
 
 // Pin Flame Sensor
 #define flameSensor 34
